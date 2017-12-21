@@ -1,0 +1,34 @@
+{
+    "version": "1.0.0",
+    "name": "cordova-plugin-windows-softinput-mode",
+    "cordova_name": "Cordova MBTiles Plugin",
+    "description": "Cordova/Phonegap plugin to check the state of Location/WiFi/Camera/Bluetooth device settings.",
+    "author": "XXX",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/andreacimino/windowSoftInputMode.git"
+    },
+    "cordova": {
+        "id": "cordova-plugin-windows-softinput-mode",
+        "platforms": [
+            "android",
+            "ios"
+        ]
+    },
+    "keywords": [
+        "ecosystem:cordova",
+        "cordova",
+        "android",
+        "ios",
+        "windows",
+        "phonegap",
+        "diagnostic",
+        "wifi",
+        "location",
+        "gps",
+        "camera",
+        "bluetooth",
+        "settings"
+    ]
+}
